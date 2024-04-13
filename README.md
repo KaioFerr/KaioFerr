@@ -1,5 +1,5 @@
-# Olá! Eu sou o Kaio 👨🏽‍💻
-* Sou estudante de Ciência da Computação no Centro Universitário Governador Ozanam Coelho (UNIFAGOC)
+# Hello, World!
+Meu nome é Kaio, sou estudante de Ciência da Computação no Centro Universitário Governador Ozanam Coelho (UNIFAGOC)
 # Habilidades
 * 💻 Linguagens: Python, Kotlin, JavaScript
 * 🛢️ Banco de Dados: SQL
