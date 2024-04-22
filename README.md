@@ -1,7 +1,7 @@
 # Hello, World!👋🏽
 ## Meu nome é Kaio
 * Eu sou estudante de Ciência da Computação no Centro Universitário Governador Ozanam Coelho (UNIFAGOC)
-* Crio conteúdo informativo no Instagram
+* Faço conteúdo informativo no Instagram
 ## Habilidades
 * 💻 Linguagens: Python, Kotlin, JavaScript
 * 🛢️ Banco de Dados: SQL
