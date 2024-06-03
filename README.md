@@ -8,7 +8,7 @@
 * 🛠️ Ferramentas: Git, Intelij
 # Contato
 * 📧 Email: kaiohtf38@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/kaio-ferreira-5220b6137/
+* 💼 LinkedIn: www.linkedin.com/in/kaioferr
 * 📱 Instagram: https://www.instagram.com/kaiodevtech/
 
 
