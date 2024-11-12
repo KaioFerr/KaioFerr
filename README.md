@@ -1,6 +1,6 @@
 # Hello, World!👋🏽
 ## Meu nome é Kaio Ferreira
-* 📚 | Eu sou estudante de Ciência da Computação no Centro Universitário Governador Ozanam Coelho (UNIFAGOC)
+* 📚 | Eu sou estudante do segundo período de Ciência da Computação no Centro Universitário Governador Ozanam Coelho (UNIFAGOC)
 * 🤳 | Faço conteúdo informativo no Instagram - @kaiodevtech
 ## Habilidades
 * 💻 Linguagens: Python, Kotlin, JavaScript, C++, C
