@@ -10,11 +10,7 @@
 
 **Linguagens de Programação:**  
 - **Java** (com ênfase no **Spring Boot**)
-- **Python**
 - **Kotlin**
-- **JavaScript** (com ênfase em **React**)
-- **C++**  
-- **C**
 
 **Banco de Dados:**  
 - **PostgreSQL**  
@@ -25,7 +21,6 @@
 - **Git/GitHub**  
 - **IntelliJ IDEA**  
 - **VS Code**  
-- **CLion**
 
 ---
 
