@@ -1,6 +1,6 @@
 # Olá, sou Kaio Ferreira 👋
 
-📚 **Estudante de Ciência da Computação** no Centro Universitário Governador Ozanam Coelho (UNIFAGOC) - 3º Período
+📚 **Estudante de Ciência da Computação** no Centro Universitário Governador Ozanam Coelho (UNIFAGOC) - 4º Período
 
 💻 **Desenvolvedor Backend** em formação, com foco em **Java 17**, **Spring Boot**, **PostgreSQL** e **AWS**. Tenho interesse crescente no ecossistema **React** para desenvolvimento Full Stack.
 
