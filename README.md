@@ -1,43 +1,46 @@
-# Olá, sou Kaio Ferreira 👋
+# 👋 Olá, sou Kaio Ferreira
 
-📚 **Estudante de Ciência da Computação** no Centro Universitário Governador Ozanam Coelho (UNIFAGOC) - 4º Período
-
-💻 **Desenvolvedor Backend** em formação, com foco em **Java 17**, **Spring Boot**, **PostgreSQL** e **AWS**. Tenho interesse crescente no ecossistema **React** para desenvolvimento Full Stack.
+📚 **Estudante de Ciência da Computação** no Centro Universitário Governador Ozanam Coelho (UNIFAGOC) - 4º Período  
+💻 **Desenvolvedor Backend** em formação, com foco em **Java/Kotlin**, **Spring Boot**, **PostgreSQL** e **AWS**.  
+🌐 Tenho interesse crescente no ecossistema **React** para desenvolvimento Full Stack.
 
 ---
 
-### **🔧 Habilidades Técnicas**
+## 🔧 Habilidades Técnicas
 
 **Linguagens de Programação:**  
-- **Java** (com ênfase no **Spring Boot**)
-- **Kotlin**
+- Java (ênfase no Spring Boot)  
+- Kotlin  
 
 **Banco de Dados:**  
-- **PostgreSQL**  
-- **SQL**  
-- **Firebird 3.0**
+- PostgreSQL  
+- SQL  
+- Firebird 3.0  
 
 **Ferramentas:**  
-- **Git/GitHub**  
-- **IntelliJ IDEA**  
-- **VS Code**  
+- Git / GitHub  
+- IntelliJ IDEA  
+- VS Code
 
 ---
 
-### **🚀 Projetos Relevantes**
+## 🚀 Projetos Relevantes
 
-Aqui estão alguns dos meus principais projetos que mostro no meu GitHub:
+### [**Projeto 1 – nutriFAGOC**](https://github.com/KaioFerr/nutriFAGOC)  
+Aplicação web para consulta de informações nutricionais de alimentos, baseada na Tabela Brasileira de Composição de Alimentos (TACO).
 
-1. [**Projeto 1**](https://github.com/KaioFerr/nutriFAGOC) - **Este projeto é uma aplicação web desenvolvida para consultar informações nutricionais de alimentos com base na Tabela Brasileira de Composição de Alimentos (TACO)**
-2. [**Projeto 2**](https://github.com/KaioFerr/todolist) - **A TodoList API é um sistema simples de gerenciamento de tarefas desenvolvido com Java e Spring Boot, seguindo a arquitetura hexagonal para melhor organização e separação de responsabilidades.**
+### [**Projeto 2 – Datacheque**](https://lnkd.in/dPjdXgUM)  
+Este projeto acadêmico foi desenvolvido em parceria com uma empresa local, como parte da disciplina obrigatória de Extensão da faculdade. O desafio proposto ao nosso grupo foi criar um **sistema de folha de pagamento** para gerenciar contracheques de funcionários.
+
+Participei de todas as etapas do desenvolvimento: levantamento de requisitos, definição das regras de negócio, modelagem de dados e construção dos endpoints do back-end voltados ao contador e aos funcionários.  
+Apliquei princípios do **SOLID**, **Clean Code**, **auditoria de dados** e **segurança com JWT**. O sistema foi totalmente integrado ao front-end e permitiu uma navegação fluida e segura.
+
+> **Resumo:** Projeto de folha de pagamento com segurança via JWT, auditoria de dados e arquitetura limpa. Realizado em equipe com divisão entre front e back-end, utilizando boas práticas de desenvolvimento.
 
 ---
 
-### **📱 Redes Sociais e Contato**
+## 📱 Redes Sociais e Contato
 
-**LinkedIn:** [www.linkedin.com/in/kaioferr](www.linkedin.com/in/kaioferr)  
-**Instagram:** [@kaiodevtech](https://www.instagram.com/kaiodevtech/)  
-**Email:** kaiohtf38@gmail.com
-
-
-
+- [**LinkedIn**](https://www.linkedin.com/in/kaioferr)  
+- [**Instagram**](https://www.instagram.com/kaiodevtech/)  
+- **Email:** kaiohtf38@gmail.com
